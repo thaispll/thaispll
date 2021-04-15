@@ -25,7 +25,7 @@ My name is Thais Leal. I work as a Fullstack Developer at ITS Rio.   👩‍💻
 
 ### Let's connect? 🤝 
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/thais-l-61300095/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
