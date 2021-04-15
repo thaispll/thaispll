@@ -23,7 +23,7 @@ My name is Thais Leal. I work as a Fullstack Developer at ITS Rio.   👩‍💻
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/> ### Let's connect? 🤝 
+### Let's connect? 🤝 
 
 <p align="center">
 
@@ -34,3 +34,5 @@ My name is Thais Leal. I work as a Fullstack Developer at ITS Rio.   👩‍💻
 <a href="https://www.facebook.com/Thais.Leal.Dev/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
 </p>
+
+<p><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/>  <h5>Dúvidas ou sugestões?</h5></p>
