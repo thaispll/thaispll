@@ -16,11 +16,7 @@ My name is Thais Leal. I work as a Fullstack Developer at ITS Rio.   👩‍💻
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaispll&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaispll&layout=compact&count_private=true)![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
 
 
 ### Let's connect? 🤝 
