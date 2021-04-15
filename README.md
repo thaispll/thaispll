@@ -15,11 +15,12 @@ My name is Thais Leal. I work as a Fullstack Developer at ITS Rio.   👩‍💻
 
 
 ### Analytics ⚙️
-
+<p align="center">
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaispll&layout=compact&count_private=true)![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
 
+</p>
 ### Let's connect? 🤝 
 
 <p>
@@ -32,4 +33,4 @@ My name is Thais Leal. I work as a Fullstack Developer at ITS Rio.   👩‍💻
 
 </p>
 
-<p><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/>  <h5>Dúvidas ou sugestões?</h5></p>
+<p><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/>  <h3>Dúvidas ou sugestões?</h3></p>
